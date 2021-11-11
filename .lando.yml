@@ -1,0 +1,4 @@
+name: secondmoduledrupal
+recipe: drupal9
+config:
+  webroot: .
